@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552016116032",
+    "project_id": "fir-crud-operation-8face",
+    "storage_bucket": "fir-crud-operation-8face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552016116032:android:ffa306324cfeeaa5cbe2a5",
+        "android_client_info": {
+          "package_name": "com.sadman.firebase_crud_operation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552016116032-k1ub6dhr2q6q5cr9vifodrtgsogcsvmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadman.firebase_crud_operation",
+            "certificate_hash": "c0590ba0c6ce08306e15d060a37e8bc879c0f935"
+          }
+        },
+        {
+          "client_id": "552016116032-ukm2gc4dgf8k4bcgn7lfitg0ml0ce0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLMviJp1-m4wpVlGRJMBV26LlfiwcbxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552016116032-ukm2gc4dgf8k4bcgn7lfitg0ml0ce0j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
